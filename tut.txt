@@ -1,0 +1,65 @@
+                            REACT
+Setup
+Basics
+React Hooks
+Context API
+React Router
+react-project.netlify.app
+johnsmilga.com
+
+
+Developed by Facebook 2011
+Angular , Vue, Suvelte
+Components = User Interfaces
+Root Components,Component Tree
+Independence
+Reusability
+Speed
+
+
+                            Goals
+Comfortable
+Apply theory
+Build your Own project
+
+                        Structure
+Dev Environment
+Tutorial
+Projects
+Redux
+
+
+                        Requirements
+HTML
+CSS
+JavaScript(ES6)
+
+
+
+                        Dev Environment
+Node
+Browser = Chrome
+Text Editor = Visual Studio Code
+React Developed Tools
+
+
+
+                        Terminal
+PWD - Full Pathname to current working directory
+LS - List of Directories
+MKDIR - Create a Directory/Folder
+CD - Change a Directory
+CD.. - navigate to parent/One level up
+CLEAR - Clear Console
+Arrow key Up/Down - Previous Commands
+
+
+                    NPM
+NPM INIT - creates packages.json (manifest) file, list dependencies
+NPM INSTALL <package name> --save
+    Install package Locally (default) and add to package.json
+NPM INSTALL <package name> -g
+    Install package Globally 
+NPM INSTALL <package name> --save-dev 
+Use it only in development
+
